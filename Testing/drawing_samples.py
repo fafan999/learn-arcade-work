@@ -6,7 +6,7 @@ Yeah, commenting is good
 import arcade
 
 # opens a window
-arcade.open_window(600, 600, "Draing Example")
+arcade.open_window(600, 600, "Drawing Example")
 
 # set the background color
 # arcade.set_background_color((0, 255, 0))
